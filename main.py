@@ -3,4 +3,4 @@ def bonjour(nom):
 
 if __name__ == "__main__":
     user = input("Entrez votre nom : ")
-    bonjour(user)
+    print("bonjour",user,",bienvenue! ")
